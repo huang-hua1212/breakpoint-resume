@@ -8,7 +8,7 @@
       <button type="primary" @click='downfile'>
         下載
       </button>
-      <button style = 'margin-left:20px;' @click = 'stopDonwload'>暫停下載</button>
+     
   </div>
 </template>
 
