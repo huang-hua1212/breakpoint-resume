@@ -1,6 +1,6 @@
 # Workflow
 
-![圖片1](https://user-images.githubusercontent.com/52047119/179187831-7738a9d6-98bb-458a-983c-db99ce31cda5.png=80%x)
+![圖片1]<img src="[(https://user-images.githubusercontent.com/52047119/179187831-7738a9d6-98bb-458a-983c-db99ce31cda5.png)" width="80%" height="80%]">
 
 # Slice file
 
