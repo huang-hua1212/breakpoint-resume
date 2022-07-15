@@ -1,6 +1,6 @@
 # Workflow
 
-![圖片1](https://i.imgur.com/0YIHyUS.png=80%x)
+![](https://i.imgur.com/0YIHyUS.png=80%x)
 
 # Slice file
 
