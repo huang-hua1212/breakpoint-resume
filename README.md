@@ -1,6 +1,6 @@
 # Workflow
 
-![圖片1](https://user-images.githubusercontent.com/52047119/179187831-7738a9d6-98bb-458a-983c-db99ce31cda5.png)
+![圖片1](https://i.imgur.com/0YIHyUS.png=80%x)
 
 # Slice file
 
